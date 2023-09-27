@@ -5,7 +5,7 @@
 - 👀 Estou interessada em desenvolvimento FullStack;
 - 🌱 Atualmente estou aprendendo HTML, CSS, Javascript e React;
 - ⚡ Atualmente começando a programar, seja gentil;
-- 📫 Como entrar em contato comigo e-mail: matheus.limajunger@gmail.com.
+- 📫 Como entrar em contato comigo? e-mail: matheus.limajunger@gmail.com.
 
 
 ### Linguagens que estou aprendendo!
