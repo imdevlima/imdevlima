@@ -2,9 +2,9 @@
 
 
 - 🏡 Moro em São Paulo, Brasil;
-- 👀 Estou interessada em desenvolvimento FullStack;
+- 👀 Estou interessado em desenvolvimento FullStack;
 - 🌱 Atualmente estou aprendendo HTML, CSS, Javascript e React;
-- ⚡ Atualmente começando a programar, seja gentil;
+- ⚡ Começando a programar, seja gentil;
 - 📫 Como entrar em contato comigo? e-mail: matheus.limajunger@gmail.com.
 
 
